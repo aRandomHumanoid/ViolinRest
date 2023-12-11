@@ -5,4 +5,6 @@
 
 A repository for an open source violin rest. Intended to be customizable and made for indivdual users. 
 
+As of now, it is intended to me mostly 3d printed, with limited m4 hardware. Considerations for machining or routing have not been made. (maybe in the future?)
+
 Originally designed as a school project, we'll see where this goes!
